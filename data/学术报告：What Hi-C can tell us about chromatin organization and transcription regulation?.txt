@@ -1,0 +1,23 @@
+What Hi-C can tell us about chromatin organization and transcription
+regulation?
+ Dr. Zhaohui(Steve) Qin（秦朝晖）
+2016年12月25日（周五）9:50
+逸夫楼C座314会议室
+One of the new sequencing technique is the
+so called Hi-C(High-throughput Chromosome Conformation Capture). It aims to
+catch the chromatin structure by observing spatial proximal DNA sequence
+ligation through pair-end sequencing. The resultant data can be represented as
+a 2-D matrix with entries (i,j) giving number of ligations observed between
+position i and j on the genome. HiC data is now available in a lot of model
+organisms including human, mouse, fly and yeast. The most significant global
+feature in human and mouse HiC interaction is the plaid pattern, which lead to
+existence of compartment. There are a lot of unexplained patterns and the
+causal connection between HiC data and genome regulation is still to be
+explored.
+Dr. Qin’s research is in the areas of
+statistical genetics, genomics and bioinformatics. Motivated by scientific
+needs in these area and new technologies, he is undertaking both methodological
+and collaborative research. A major focus of his research is on developing and
+evaluating model-based methods to analyze genetics and genomics data, in
+particular, next generation sequencing data, and on developing software so that
+the methods can be easily adopted by the research community.

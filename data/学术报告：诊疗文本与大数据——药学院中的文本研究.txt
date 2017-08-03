@@ -1,0 +1,6 @@
+Clinical text and big data.——how NLP research carry on in medical school诊疗文本与大数据——药学院中的文本研究
+ Kevin Cohen  博士（科罗拉多大学丹佛分校药学院）
+2016年11月14日（周一）16:00-17:00
+逸夫楼C座314会议室
+Kevin Bretonnel Cohenis the Director of the Biomedical Text Mining Group at the University ofColorado School of Medicine.His areas of research include epilepsy,spinal cordinjuries,suicide,and cancer.
+Dr. Cohen is best Known for approaches to natural languageprocessing that incorporate elements of empirical theoretical linguistics,particularlyin semantics.He is the chair of the Association for Computational LinguisticsSpecial Interest Group in Biomedical Narural Language Processing,and theauthor(with Dina Demner-Fushman)of the book Biomedical Natural LanguageProcessing.

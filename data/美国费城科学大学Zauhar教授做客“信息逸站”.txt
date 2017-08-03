@@ -1,0 +1,7 @@
+    （图文|通讯员青烨）7月7日上午10时，应我校信息学院邀请，美国费城科学大学化学与生物化学系Randy J. Zauhar教授在信息学院C座314会议室作了题为“Computational Biology: From Gene Expressionto Drug Design”的学术报告。学院师生代表参加了报告会。
+
+
+    Zauhar教授从基因的表达讲起，提到了基因的差异表达可能与疾病的关联；接着在药物设计方面，Zauhar提出ShapeSignatures的概念，并用课题组的研究成果和其他方法的比较说明了ShapeSignatures在识别蛋白质抑制剂方面的优势和特点。Zauhar教授的讲解风趣幽默，深入浅出。报告结束，Zauhar教授与现场师生展开了深入的探讨与交流，并对大家的问题进行了详细解答。最后，张红雨院长对Randy教授表示感谢，此次学术报告圆满结束。
+
+
+    报告人简介：Randy J. Zauhar，Director, Graduate Program in Bioinformatics，Professor of Biochemistry，Department of Chemistry & Biochemistry，University of Sciences in Philadelphia.

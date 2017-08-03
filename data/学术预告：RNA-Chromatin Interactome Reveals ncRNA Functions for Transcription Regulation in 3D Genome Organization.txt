@@ -1,0 +1,21 @@
+RNA-Chromatin
+Interactome Reveals ncRNA Functions for Transcription Regulation in 3D Genome
+Organization
+ 郑梅珍  高级科学家
+2017年3月22日（周三）10:00
+逸夫楼C座314会议室
+Noncoding RNAs (ncRNAs) are an
+emerging class of regulatory molecules with a broad range of regulatory
+functions believed to involve their interactions with chromatin. We devised an
+unbiased strategy to identify all RNA Interactions with Chromatin by Paired-End-Taging
+(RICh-PET) and applied this approach to characterize the Drosophila
+RNA-chromatin interactome. We discovered that many ncRNAs primarily target
+promoters and enhancers in open chromatin regions and co-localize with RNAPII
+and other TFs in a combinatorial manner. Enzymatic nuclear digestion of RNAs
+followed by examination of specific chromatin loci suggests that ncRNAs may
+collectively assist in maintaining chromatin accessability, RNAPII-mediated
+chromatin interactions, and the overall 3D-genome organization.
+郑梅珍，博士， 美国杰克逊基因组研究中心，高级科学家，在阮一骏教授团队中从事3D基因组技术研发工作。
+07年博士毕业于中山大学附属肿瘤防治中心
+04年硕士毕业于暨南大学
+01年毕业于华中科技大学同济医学院

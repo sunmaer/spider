@@ -1,0 +1,13 @@
+可扩展的软件信息站标签推荐
+ 刘进  教授
+2017年7月21日（周五）16:00
+逸夫楼C座314会议室
+众多软件开发者通过StackOverflow和Freecode这样的软件信息站software information sites搜索、共享和学习关于软件开发、解决方案、缺陷修复和开源项目等方面的经验和知识。软件信息站中的内容通常被称为软件对象Software Object。软件信息站大多依赖标签tags对软件对象进行分类，以此提升对于软件对象管理操作的准确性和性能。标签的质量对软件信息站的服务效果有重要的影响。高质量的标签在保持精炼的同时，必须描述软件对象的重要特征。现实中，软件开发人员对于标签的选择既依赖于他对软件对象的理解，还依赖于他的英语水平和语言偏好，这导致了标签数量随着软件对象规模的增长不断激增。在数以万计标签增长同时引入了语义噪声，导致划分软件对象的准确性和合理性下降。这种现象严重降低了开发者的查询速度和准确度。针对上述问题，我们提出了一种自动标签推荐工具TagMulRec，用于对持续演化的大规模软件信息站中的软件对象进行分类。对于一个新加入的软件对象，TagMulRec首先选取软件信息站中与其语义最为相似的软件对象，然后从这些软件对象标注的标签中筛选标签进行推荐。通过在StackOverflow、AskUbuntu、AskDifferent和Freecode数据集上进行经验性评估，结果表明TagMulRec针对不同规模的数据集具有可扩展性。也就是，TagMulRec推荐结果不仅在小数据集上的自动标签标注效果准确，而且在大规模数据集上自动标签标注效果也准确。
+刘进博士，软件工程国家重点实验室（武汉大学）教授，博士生导师，中国计算机学会软件工程专业委员会委员，中国计算机学会服务计算专业委员会委员，中国自动化学会计算机图形学与人机交互专委会委员，中国电子学会云计算专委会专家组织联系人，美国New Jersey Institute of Technology访问学者，中国科学院自动化所博士后，中科院计算技术所博士后，CCF/ACM /IEEE会员。研究方向为软件解析学、互联网上新型软件开发、以及软件服务工程。成果发表在Software Practice and Experience（Wiley）、Journal of Systems and Software、Future
+Generation Computer Systems (Elsevier)、Concurrency and
+Computation: Practice and Experience（Wiley）、The Journal of Supercomputing（Springer）、IEEE Trans. Software Eng.、Neural Computing
+and Applications（Springer）、ICSE、SANER和ISSRE等国际刊物和会议40余篇。国际刊物ACM Trans. on Intelligent Systems and Technology、IEEE Transactions on Reliability, Journal of System and Software,
+Journal of Supercomputing, Concurrency and Computation: Practice and
+Experience, Future Generation Computer Systems, Int. Journal of Geography
+Information System, Journal of Computer Science and Technology审稿人，Journal of Internet and Information Systems和International
+Journal of Digital Content Technology and its Applications编委。主持多项国家自然科学基金面上项目、国家973子课题、国家科技支撑计划任务、湖北省自然科学基金项目，以及武汉市青年晨光计划1项；作为核心骨干参与多项国家自然科学基金重点项目、教育部国防重点项目、973“需求工程”、973“知识网格”、863计划、科技部国际合作计划和欧盟欧盟框架计划FP6项目。

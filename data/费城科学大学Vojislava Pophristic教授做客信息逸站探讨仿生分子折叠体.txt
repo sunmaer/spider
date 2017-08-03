@@ -1,0 +1,3 @@
+    （文|通讯员李晴）7月27日，受我校信息学院高军教授的邀请，美国费城科学大学科技大学Vojislava Pophristic教授在逸夫楼C314会议室做了题为《Development and applications of computational tools for modeling aromatic foldamers》的报告。
+
+    Vojislava Pophristic教授由浅入深的介绍了在生命体中具有重要功能作用的分子——蛋白质。蛋白质由20种氨基酸构成，通过氨基酸序列折叠成3D结构最后发挥作用，有一、二、三、四级结构。然后引出了“foldamer”也就是仿生分子折叠体，比较了蛋白质与“foldamer”的不同点。蛋白质由20种单体构成，而“foldamer”中非生物的单体超过20种。蛋白质的结构和功能有数千种，而“foldamer”有无限的结构、功能和应用。因此可以说，“foldamer”源于自然而高于自然，可设计出更多功能材料。Vojislava Pophristic教授介绍了自己最近在芳香类分子折叠体方面的一些重要进展，介绍了分子模拟和力场开发在这些工作中发挥的重要作用，特别是折叠体如何在两种螺旋结构之间相互转化机制的演示，引起了大家的极大兴趣，也引发了现场热烈讨论。Vojislava Pophristic教授也以极具亲和力的性格，和深入浅出的讲解，给在场师生留下了深刻的印象，同学们感觉受益匪浅。
