@@ -24,16 +24,16 @@ function startRequest(x) {
 		// 监听 end 事件，如果整个网页内容的 html 都获取完毕，就执行回调函数
 		res.on('end', function() {
 			var $ = cheerio.load(html) // 采用 cheerio 模块解析 html
-			var time = $('.info span:eq(1)').text().trim().split('：')[1]
+			var time = $('.info .fl').eq(0).text().trim().split('：')[1]
 			var news_item = {
 				// 获取文章标题
 				title: $('.art_title h4').text().trim(),
 				// 获取文章发布时间
 				time: time,
 				// 获取作者
-				author: $('.info span:eq(1)').text().trim().split('：')[1],
+				author: $('.info .fl').eq(1).text().trim().split('：')[1],
 				// 获取文章的浏览次数
-				views: $('.info span:eq(2)').text().trim().split('：')[1],
+				views: $('.info .fl').eq(2).text().trim().split('：')[1],
 				// i 是用来判断获取了多少篇文章
 				i: i+1
 			}
